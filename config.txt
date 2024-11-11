@@ -1,0 +1,3 @@
+[emcomm-print]
+incoming_dir = C:/EMCOMM/Incoming/
+processed_dir = C:/EMCOMM/Processed/
